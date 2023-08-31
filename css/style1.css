@@ -1,0 +1,21 @@
+
+@font-face {
+  src: url(../fonts/Philosopher-Bold.ttf);
+  font-family:Philosopher-Bold;
+}
+
+.h1{
+	font-family:Philosopher-Bold;
+	font-weight: 1000;
+	
+}
+
+@font-face{
+	src:url(../fonts/Philosopher-BoldItalic.woff2) format(woff2);
+	font-family:Philosopher-BoldItalic;
+}
+
+.h2{
+	font-family:Philosopher-BoldItalic;
+}
+	
